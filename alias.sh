@@ -1,2 +1,3 @@
 #!/bin/bash
-alias shake="shake.sh"
+
+alias shake='~/github/8ball/bin/shake.py'
